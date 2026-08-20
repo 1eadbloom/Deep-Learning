@@ -1,6 +1,6 @@
 # Binary Semantic Segmentation — Oxford-IIIT Pet Dataset
 
-> *Deep Learning Lab2* — NYCU, Spring 2026
+> **Deep Learning Lab2** — NYCU, Spring 2026
 > UNet and ResNet34-UNet for pixel-level pet segmentation, trained from scratch with PyTorch
 
 \---
