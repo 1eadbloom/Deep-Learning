@@ -1,6 +1,6 @@
 # Conditional DDPM for Multi-Label Image Generation (i-CLEVR)
 
-> **Deep Learning Lab6** — NYCU, Spring 2025  
+> **Deep Learning Lab6** — NYCU, Spring 2026  
 > Conditional Denoising Diffusion Probabilistic Model with Cross-Attention Conditioning
 
 ## Results
