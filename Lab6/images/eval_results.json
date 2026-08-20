@@ -1,0 +1,9 @@
+{
+  "test": 0.9166666666666666,
+  "new_test": 0.9642857142857143,
+  "denoise_labels": [
+    "red sphere",
+    "cyan cylinder",
+    "cyan cube"
+  ]
+}

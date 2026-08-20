@@ -1,0 +1,30 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# ── Virtual environment ────────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── PyTorch model weights (too large for GitHub) ──────────────────────────────
+*.pt
+*.pth
+*.ckpt
+
+# ── Training outputs ──────────────────────────────────────────────────────────
+results/
+wandb/
+eval_videos/
+logs/
+
+# ── OS / Editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/settings.json
+
+# ── Windows bat temp ──────────────────────────────────────────────────────────
+*.tmp

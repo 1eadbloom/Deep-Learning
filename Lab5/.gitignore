@@ -1,0 +1,12 @@
+.venv/
+venv/
+results/
+wandb/
+eval_videos/
+logs/
+*.pt
+*.pth
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

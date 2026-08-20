@@ -1,0 +1,9 @@
+gymnasium==1.1.1
+ale-py>=0.10.0
+opencv-python
+# torch 需手動安裝 CUDA 版，不寫在這裡避免裝到 CPU 版
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+wandb==0.28.0
+numpy>=1.24.0,<2.0.0
+imageio
+imageio-ffmpeg

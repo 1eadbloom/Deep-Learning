@@ -1,0 +1,9 @@
+gymnasium==1.1.1
+ale-py>=0.10.0
+opencv-python
+torch
+torchvision
+numpy
+wandb
+imageio
+imageio-ffmpeg

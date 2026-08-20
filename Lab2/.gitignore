@@ -1,0 +1,30 @@
+# Dataset (too large for GitHub)
+dataset/
+
+# Trained model weights (too large for GitHub)
+saved_models/*.pth
+
+# Kaggle submission CSVs
+submission_*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

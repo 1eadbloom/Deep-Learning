@@ -1,0 +1,2 @@
+@echo off
+python dqn.py --env ALE/Pong-v5 --episodes 5000 --save-dir ./results/task2 --student-id 109205057 --wandb-project DLP-Lab5-DQN-Pong --wandb-run-name task2-pong-resume --batch-size 32 --memory-size 100000 --lr 0.0001 --discount-factor 0.99 --epsilon-start 0.05 --epsilon-decay 0.999985 --epsilon-min 0.05 --target-update-frequency 1000 --replay-start-size 5000 --max-episode-steps 10000 --train-per-step 4 --resume-path ./results/task2/best_model.pt --initial-epsilon 0.05 --initial-best-reward -5.0
