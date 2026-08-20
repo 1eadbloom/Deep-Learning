@@ -1,0 +1,65 @@
+#lab2
+# Dataset (too large for GitHub)
+dataset/
+
+# Trained model weights (too large for GitHub)
+saved_models/*.pth
+
+# Kaggle submission CSVs
+submission_*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.venv/
+
+#lab5
+results/
+wandb/
+eval_videos/
+logs/
+*.pt
+*.pth
+*.py[cod]
+
+#lab6
+# 資料集（太大）
+iclevr/
+
+# 原版評估器資料夾（含大型 checkpoint，課程提供不需上傳）
+file/
+
+# 備份權重
+ddpm_checkpoint_bak.pt
+
+# 繳交用 zip
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# 系統
+.DS_Store
+Thumbs.db
+
