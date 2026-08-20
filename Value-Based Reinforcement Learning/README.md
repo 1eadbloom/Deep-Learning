@@ -1,11 +1,9 @@
 # Value-Based Reinforcement Learning
 
----
-
-## Overview
-
-Implementation of Deep Q-Network (DQN) and its enhancements for solving
+> **Deep Learning Lab5** — NYCU, Spring 2026  
+> Implementation of Deep Q-Network (DQN) and its enhancements for solving
 classic control and Atari visual reinforcement learning tasks.
+---
 
 | Task | Environment | Method | Result |
 |------|-------------|--------|--------|
