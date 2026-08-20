@@ -1,6 +1,4 @@
-# DLP Lab5 – Value-Based Reinforcement Learning
-**Course:** NYCU 535518 Deep Learning, Spring 2026  
-**Student ID:** 109205057
+# Value-Based Reinforcement Learning
 
 ---
 
